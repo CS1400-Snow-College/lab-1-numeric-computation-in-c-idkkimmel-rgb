@@ -1,0 +1,15 @@
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.AssemblyInfoInputs.cache
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.AssemblyInfo.cs
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.csproj.CoreCompileInputs.cache
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.sourcelink.json
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\bin\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.exe
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\bin\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.deps.json
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\bin\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.runtimeconfig.json
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\bin\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.dll
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\bin\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.pdb
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.dll
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\refint\lab-1-numeric-computation-in-c-idkkimmel-rgb.dll
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.pdb
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\lab-1-numeric-computation-in-c-idkkimmel-rgb.genruntimeconfig.cache
+C:\Users\idkki\my-code-dir\lab-1-numeric-computation-in-c-idkkimmel-rgb\obj\Debug\net9.0\ref\lab-1-numeric-computation-in-c-idkkimmel-rgb.dll
