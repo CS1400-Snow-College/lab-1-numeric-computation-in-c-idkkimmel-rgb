@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-idkkimmel-rgb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856ba19aecc3021658ee22c4adadf059920131e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd48d365d423b4b83b813a2be46f540da3f9a160")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-idkkimmel-rgb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-idkkimmel-rgb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
